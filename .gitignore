@@ -1,0 +1,6 @@
+tmp/
+media/
+*.pptx
+
+.DS_Store
+.env
